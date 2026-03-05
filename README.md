@@ -28,4 +28,4 @@ CSS3 – Styling and layout
 
 JavaScript (ES6) – Application logic and functionality
 
-LocalStorage API – Storing recipes in the browser
+LocalStorage – Storing recipes in the browser
