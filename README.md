@@ -1,6 +1,7 @@
 **🍽️ Recipe Sharing Web Application**
 
 **📌 Project Overview**
+
 The Recipe Sharing Web Application is designed to help users store and organize their favorite recipes in one place. Users can easily add new recipes, view existing ones, and manage them through a simple and user-friendly interface.
 
 This project demonstrates frontend development skills using HTML, CSS, and JavaScript along with client-side data storage using LocalStorage.
