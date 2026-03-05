@@ -18,10 +18,11 @@ This project demonstrates frontend development skills using HTML, CSS, and JavaS
 📱 Responsive and user-friendly interface
 
 **🛠️ Technologies Used**
-*HTML5 – Structure of the web application
 
-*CSS3 – Styling and layout
+HTML5 – Structure of the web application
 
-*JavaScript (ES6) – Application logic and functionality
+CSS3 – Styling and layout
 
-*LocalStorage API – Storing recipes in the browser
+JavaScript (ES6) – Application logic and functionality
+
+LocalStorage API – Storing recipes in the browser
